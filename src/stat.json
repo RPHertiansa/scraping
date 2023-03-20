@@ -1,0 +1,1054 @@
+LoadedCheerio {
+  '0': <ref *1> Element {
+  parent: Element {
+  parent: [Element],
+  prev: [Text],
+  next: [Text],
+  startIndex: null,
+  endIndex: null,
+  children: [Array],
+  name: 'tbody',
+  attribs: [Object: null prototype],
+  type: 'tag',
+  namespace: 'http://www.w3.org/1999/xhtml',
+  'x-attribsNamespace': [Object: null prototype],
+  'x-attribsPrefix': [Object: null prototype]
+},
+prev: Text {
+parent: [Element],
+prev: null,
+next: [Circular *1],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n  ',
+type: 'text'
+},
+next: Text {
+parent: [Element],
+prev: [Circular *1],
+next: [Element],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+startIndex: null,
+endIndex: null,
+children: [
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text]
+],
+name: 'tr',
+attribs: [Object: null prototype] { class: '' },
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype] { class: undefined },
+'x-attribsPrefix': [Object: null prototype] { class: undefined }
+},
+'1': <ref *2> Element {
+parent: Element {
+parent: [Element],
+prev: [Text],
+next: [Text],
+startIndex: null,
+endIndex: null,
+children: [Array],
+name: 'tbody',
+attribs: [Object: null prototype],
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype],
+'x-attribsPrefix': [Object: null prototype]
+},
+prev: Text {
+parent: [Element],
+prev: [Element],
+next: [Circular *2],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+next: Text {
+parent: [Element],
+prev: [Circular *2],
+next: [Element],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+startIndex: null,
+endIndex: null,
+children: [
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text]
+],
+name: 'tr',
+attribs: [Object: null prototype] { class: '' },
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype] { class: undefined },
+'x-attribsPrefix': [Object: null prototype] { class: undefined }
+},
+'2': <ref *3> Element {
+parent: Element {
+parent: [Element],
+prev: [Text],
+next: [Text],
+startIndex: null,
+endIndex: null,
+children: [Array],
+name: 'tbody',
+attribs: [Object: null prototype],
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype],
+'x-attribsPrefix': [Object: null prototype]
+},
+prev: Text {
+parent: [Element],
+prev: [Element],
+next: [Circular *3],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+next: Text {
+parent: [Element],
+prev: [Circular *3],
+next: [Element],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+startIndex: null,
+endIndex: null,
+children: [
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text]
+],
+name: 'tr',
+attribs: [Object: null prototype] { class: '' },
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype] { class: undefined },
+'x-attribsPrefix': [Object: null prototype] { class: undefined }
+},
+'3': <ref *4> Element {
+parent: Element {
+parent: [Element],
+prev: [Text],
+next: [Text],
+startIndex: null,
+endIndex: null,
+children: [Array],
+name: 'tbody',
+attribs: [Object: null prototype],
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype],
+'x-attribsPrefix': [Object: null prototype]
+},
+prev: Text {
+parent: [Element],
+prev: [Element],
+next: [Circular *4],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+next: Text {
+parent: [Element],
+prev: [Circular *4],
+next: [Element],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+startIndex: null,
+endIndex: null,
+children: [
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text]
+],
+name: 'tr',
+attribs: [Object: null prototype] { class: '' },
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype] { class: undefined },
+'x-attribsPrefix': [Object: null prototype] { class: undefined }
+},
+'4': <ref *5> Element {
+parent: Element {
+parent: [Element],
+prev: [Text],
+next: [Text],
+startIndex: null,
+endIndex: null,
+children: [Array],
+name: 'tbody',
+attribs: [Object: null prototype],
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype],
+'x-attribsPrefix': [Object: null prototype]
+},
+prev: Text {
+parent: [Element],
+prev: [Element],
+next: [Circular *5],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+next: Text {
+parent: [Element],
+prev: [Circular *5],
+next: [Element],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+startIndex: null,
+endIndex: null,
+children: [
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text]
+],
+name: 'tr',
+attribs: [Object: null prototype] { class: '' },
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype] { class: undefined },
+'x-attribsPrefix': [Object: null prototype] { class: undefined }
+},
+'5': <ref *6> Element {
+parent: Element {
+parent: [Element],
+prev: [Text],
+next: [Text],
+startIndex: null,
+endIndex: null,
+children: [Array],
+name: 'tbody',
+attribs: [Object: null prototype],
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype],
+'x-attribsPrefix': [Object: null prototype]
+},
+prev: Text {
+parent: [Element],
+prev: [Element],
+next: [Circular *6],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+next: Text {
+parent: [Element],
+prev: [Circular *6],
+next: [Element],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+startIndex: null,
+endIndex: null,
+children: [
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text]
+],
+name: 'tr',
+attribs: [Object: null prototype] { class: '' },
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype] { class: undefined },
+'x-attribsPrefix': [Object: null prototype] { class: undefined }
+},
+'6': <ref *7> Element {
+parent: Element {
+parent: [Element],
+prev: [Text],
+next: [Text],
+startIndex: null,
+endIndex: null,
+children: [Array],
+name: 'tbody',
+attribs: [Object: null prototype],
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype],
+'x-attribsPrefix': [Object: null prototype]
+},
+prev: Text {
+parent: [Element],
+prev: [Element],
+next: [Circular *7],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+next: Text {
+parent: [Element],
+prev: [Circular *7],
+next: [Element],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+startIndex: null,
+endIndex: null,
+children: [
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text]
+],
+name: 'tr',
+attribs: [Object: null prototype] { class: '' },
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype] { class: undefined },
+'x-attribsPrefix': [Object: null prototype] { class: undefined }
+},
+'7': <ref *8> Element {
+parent: Element {
+parent: [Element],
+prev: [Text],
+next: [Text],
+startIndex: null,
+endIndex: null,
+children: [Array],
+name: 'tbody',
+attribs: [Object: null prototype],
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype],
+'x-attribsPrefix': [Object: null prototype]
+},
+prev: Text {
+parent: [Element],
+prev: [Element],
+next: [Circular *8],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+next: Text {
+parent: [Element],
+prev: [Circular *8],
+next: [Element],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+startIndex: null,
+endIndex: null,
+children: [
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text]
+],
+name: 'tr',
+attribs: [Object: null prototype] { class: '' },
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype] { class: undefined },
+'x-attribsPrefix': [Object: null prototype] { class: undefined }
+},
+'8': <ref *9> Element {
+parent: Element {
+parent: [Element],
+prev: [Text],
+next: [Text],
+startIndex: null,
+endIndex: null,
+children: [Array],
+name: 'tbody',
+attribs: [Object: null prototype],
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype],
+'x-attribsPrefix': [Object: null prototype]
+},
+prev: Text {
+parent: [Element],
+prev: [Element],
+next: [Circular *9],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+next: Text {
+parent: [Element],
+prev: [Circular *9],
+next: [Element],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+startIndex: null,
+endIndex: null,
+children: [
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text]
+],
+name: 'tr',
+attribs: [Object: null prototype] { class: '' },
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype] { class: undefined },
+'x-attribsPrefix': [Object: null prototype] { class: undefined }
+},
+'9': <ref *10> Element {
+parent: Element {
+parent: [Element],
+prev: [Text],
+next: [Text],
+startIndex: null,
+endIndex: null,
+children: [Array],
+name: 'tbody',
+attribs: [Object: null prototype],
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype],
+'x-attribsPrefix': [Object: null prototype]
+},
+prev: Text {
+parent: [Element],
+prev: [Element],
+next: [Circular *10],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+next: Text {
+parent: [Element],
+prev: [Circular *10],
+next: [Element],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+startIndex: null,
+endIndex: null,
+children: [
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text]
+],
+name: 'tr',
+attribs: [Object: null prototype] { class: '' },
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype] { class: undefined },
+'x-attribsPrefix': [Object: null prototype] { class: undefined }
+},
+'10': <ref *11> Element {
+parent: Element {
+parent: [Element],
+prev: [Text],
+next: [Text],
+startIndex: null,
+endIndex: null,
+children: [Array],
+name: 'tbody',
+attribs: [Object: null prototype],
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype],
+'x-attribsPrefix': [Object: null prototype]
+},
+prev: Text {
+parent: [Element],
+prev: [Element],
+next: [Circular *11],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+next: Text {
+parent: [Element],
+prev: [Circular *11],
+next: [Element],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+startIndex: null,
+endIndex: null,
+children: [
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text]
+],
+name: 'tr',
+attribs: [Object: null prototype] { class: '' },
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype] { class: undefined },
+'x-attribsPrefix': [Object: null prototype] { class: undefined }
+},
+'11': <ref *12> Element {
+parent: Element {
+parent: [Element],
+prev: [Text],
+next: [Text],
+startIndex: null,
+endIndex: null,
+children: [Array],
+name: 'tbody',
+attribs: [Object: null prototype],
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype],
+'x-attribsPrefix': [Object: null prototype]
+},
+prev: Text {
+parent: [Element],
+prev: [Element],
+next: [Circular *12],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+next: Text {
+parent: [Element],
+prev: [Circular *12],
+next: [Element],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+startIndex: null,
+endIndex: null,
+children: [
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text]
+],
+name: 'tr',
+attribs: [Object: null prototype] { class: '' },
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype] { class: undefined },
+'x-attribsPrefix': [Object: null prototype] { class: undefined }
+},
+'12': <ref *13> Element {
+parent: Element {
+parent: [Element],
+prev: [Text],
+next: [Text],
+startIndex: null,
+endIndex: null,
+children: [Array],
+name: 'tbody',
+attribs: [Object: null prototype],
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype],
+'x-attribsPrefix': [Object: null prototype]
+},
+prev: Text {
+parent: [Element],
+prev: [Element],
+next: [Circular *13],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+next: Text {
+parent: [Element],
+prev: [Circular *13],
+next: [Element],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+startIndex: null,
+endIndex: null,
+children: [
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text]
+],
+name: 'tr',
+attribs: [Object: null prototype] { class: '' },
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype] { class: undefined },
+'x-attribsPrefix': [Object: null prototype] { class: undefined }
+},
+'13': <ref *14> Element {
+parent: Element {
+parent: [Element],
+prev: [Text],
+next: [Text],
+startIndex: null,
+endIndex: null,
+children: [Array],
+name: 'tbody',
+attribs: [Object: null prototype],
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype],
+'x-attribsPrefix': [Object: null prototype]
+},
+prev: Text {
+parent: [Element],
+prev: [Element],
+next: [Circular *14],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+next: Text {
+parent: [Element],
+prev: [Circular *14],
+next: [Element],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+startIndex: null,
+endIndex: null,
+children: [
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text]
+],
+name: 'tr',
+attribs: [Object: null prototype] { class: '' },
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype] { class: undefined },
+'x-attribsPrefix': [Object: null prototype] { class: undefined }
+},
+'14': <ref *15> Element {
+parent: Element {
+parent: [Element],
+prev: [Text],
+next: [Text],
+startIndex: null,
+endIndex: null,
+children: [Array],
+name: 'tbody',
+attribs: [Object: null prototype],
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype],
+'x-attribsPrefix': [Object: null prototype]
+},
+prev: Text {
+parent: [Element],
+prev: [Element],
+next: [Circular *15],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+next: Text {
+parent: [Element],
+prev: [Circular *15],
+next: [Element],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+startIndex: null,
+endIndex: null,
+children: [
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text]
+],
+name: 'tr',
+attribs: [Object: null prototype] { class: '' },
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype] { class: undefined },
+'x-attribsPrefix': [Object: null prototype] { class: undefined }
+},
+'15': <ref *16> Element {
+parent: Element {
+parent: [Element],
+prev: [Text],
+next: [Text],
+startIndex: null,
+endIndex: null,
+children: [Array],
+name: 'tbody',
+attribs: [Object: null prototype],
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype],
+'x-attribsPrefix': [Object: null prototype]
+},
+prev: Text {
+parent: [Element],
+prev: [Element],
+next: [Circular *16],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+next: Text {
+parent: [Element],
+prev: [Circular *16],
+next: [Element],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+startIndex: null,
+endIndex: null,
+children: [
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text]
+],
+name: 'tr',
+attribs: [Object: null prototype] { class: '' },
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype] { class: undefined },
+'x-attribsPrefix': [Object: null prototype] { class: undefined }
+},
+'16': <ref *17> Element {
+parent: Element {
+parent: [Element],
+prev: [Text],
+next: [Text],
+startIndex: null,
+endIndex: null,
+children: [Array],
+name: 'tbody',
+attribs: [Object: null prototype],
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype],
+'x-attribsPrefix': [Object: null prototype]
+},
+prev: Text {
+parent: [Element],
+prev: [Element],
+next: [Circular *17],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+next: Text {
+parent: [Element],
+prev: [Circular *17],
+next: [Element],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+startIndex: null,
+endIndex: null,
+children: [
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text]
+],
+name: 'tr',
+attribs: [Object: null prototype] { class: '' },
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype] { class: undefined },
+'x-attribsPrefix': [Object: null prototype] { class: undefined }
+},
+'17': <ref *18> Element {
+parent: Element {
+parent: [Element],
+prev: [Text],
+next: [Text],
+startIndex: null,
+endIndex: null,
+children: [Array],
+name: 'tbody',
+attribs: [Object: null prototype],
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype],
+'x-attribsPrefix': [Object: null prototype]
+},
+prev: Text {
+parent: [Element],
+prev: [Element],
+next: [Circular *18],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+next: Text {
+parent: [Element],
+prev: [Circular *18],
+next: [Element],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+startIndex: null,
+endIndex: null,
+children: [
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text]
+],
+name: 'tr',
+attribs: [Object: null prototype] { class: '' },
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype] { class: undefined },
+'x-attribsPrefix': [Object: null prototype] { class: undefined }
+},
+'18': <ref *19> Element {
+parent: Element {
+parent: [Element],
+prev: [Text],
+next: [Text],
+startIndex: null,
+endIndex: null,
+children: [Array],
+name: 'tbody',
+attribs: [Object: null prototype],
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype],
+'x-attribsPrefix': [Object: null prototype]
+},
+prev: Text {
+parent: [Element],
+prev: [Element],
+next: [Circular *19],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+next: Text {
+parent: [Element],
+prev: [Circular *19],
+next: [Element],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+startIndex: null,
+endIndex: null,
+children: [
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text]
+],
+name: 'tr',
+attribs: [Object: null prototype] { class: '' },
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype] { class: undefined },
+'x-attribsPrefix': [Object: null prototype] { class: undefined }
+},
+'19': <ref *20> Element {
+parent: Element {
+parent: [Element],
+prev: [Text],
+next: [Text],
+startIndex: null,
+endIndex: null,
+children: [Array],
+name: 'tbody',
+attribs: [Object: null prototype],
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype],
+'x-attribsPrefix': [Object: null prototype]
+},
+prev: Text {
+parent: [Element],
+prev: [Element],
+next: [Circular *20],
+startIndex: null,
+endIndex: null,
+data: '\n\n\n\n  ',
+type: 'text'
+},
+next: Text {
+parent: [Element],
+prev: [Circular *20],
+next: null,
+startIndex: null,
+endIndex: null,
+data: '\n\n        ',
+type: 'text'
+},
+startIndex: null,
+endIndex: null,
+children: [
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text], [Element],
+[Text]
+],
+name: 'tr',
+attribs: [Object: null prototype] { class: '' },
+type: 'tag',
+namespace: 'http://www.w3.org/1999/xhtml',
+'x-attribsNamespace': [Object: null prototype] { class: undefined },
+'x-attribsPrefix': [Object: null prototype] { class: undefined }
+},
+length: 20,
+options: { xml: false, decodeEntities: true },
+_root: <ref *21> LoadedCheerio {
+'0': Document {
+parent: null,
+prev: null,
+next: null,
+startIndex: null,
+endIndex: null,
+children: [Array],
+type: 'root',
+'x-mode': 'no-quirks'
+},
+length: 1,
+options: { xml: false, decodeEntities: true },
+_root: [Circular *21]
+},
+prevObject: <ref *22> LoadedCheerio {
+'0': Document {
+parent: null,
+prev: null,
+next: null,
+startIndex: null,
+endIndex: null,
+children: [Array],
+type: 'root',
+'x-mode': 'no-quirks'
+},
+length: 1,
+options: { xml: false, decodeEntities: true },
+_root: [Circular *22]
+}
+}
